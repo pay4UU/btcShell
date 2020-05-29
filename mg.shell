@@ -1,0 +1,6 @@
+#!/bin/bash
+db=${1-btcCoreTesting}
+#coll=${-blocksImported}
+
+#mongoimport  --db $db --collection $coll --authenticationDatabase $db --username "btccore" -p "btccore"
+mongo --quiet --port 27017 -u "btccore" -p "btccore" --authenticationDatabase $db

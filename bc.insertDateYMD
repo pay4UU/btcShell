@@ -1,0 +1,10 @@
+colName="honzo"
+colCiel="dennyStav"
+
+db.blocksMinedMay.find().forEach(function (document) {    
+
+var dateUnix = Math.floor(document["time"]/60/60/24)*60*60*24*1000;
+document["dateISO"] = new Date(dateUnix);
+document["dateUnix"] = dateUnix; 
+db.myCollection.save(document)
+})

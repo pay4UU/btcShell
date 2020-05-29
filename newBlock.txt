@@ -1,0 +1,75 @@
+Thu May 28 08:26:32 UTC 2020 new block num and date: 631981
+Thu May 28 08:26:49 UTC 2020 new block num and date: 631986
+Thu May 28 08:27:01 UTC 2020 new block num and date: 631990
+Thu May 28 08:27:14 UTC 2020 new block num and date: 631993
+Thu May 28 08:27:39 UTC 2020
+/mnt/volume_fra1_01/.bitcoin/blocks/blk02090.dat
+Thu May 28 08:27:49 UTC 2020
+/mnt/volume_fra1_01/.bitcoin/blocks/blk02090.dat
+Thu May 28 08:27:59 UTC 2020
+/mnt/volume_fra1_01/.bitcoin/blocks/blk02090.dat
+Thu May 28 08:28:09 UTC 2020
+/mnt/volume_fra1_01/.bitcoin/blocks/blk02090.dat
+Thu May 28 08:28:19 UTC 2020
+/mnt/volume_fra1_01/.bitcoin/blocks/blk02090.dat
+Thu May 28 08:28:29 UTC 2020
+/mnt/volume_fra1_01/.bitcoin/blocks/blk02090.dat
+Thu May 28 08:28:39 UTC 2020
+/mnt/volume_fra1_01/.bitcoin/blocks/blk02090.dat
+Thu May 28 08:28:49 UTC 2020
+/mnt/volume_fra1_01/.bitcoin/blocks/blk02090.dat
+Thu May 28 20:30:46 UTC 2020 new block num and date: 632084
+Thu May 28 20:31:58 UTC 2020 new block num and date: 632085
+Thu May 28 21:01:10 UTC 2020 new block num and date: 632086
+Thu May 28 21:08:03 UTC 2020 new block num and date: 632087
+Thu May 28 21:11:15 UTC 2020 new block num and date: 632088
+Thu May 28 21:30:37 UTC 2020 new block num and date: 632089
+Thu May 28 21:42:51 UTC 2020 new block num and date: 632090
+Thu May 28 21:47:03 UTC 2020 new block num and date: 632091
+Thu May 28 21:54:07 UTC 2020 new block num and date: 632092
+Thu May 28 22:11:50 UTC 2020 new block num and date: 632093
+Thu May 28 22:16:42 UTC 2020 new block num and date: 632094
+Thu May 28 22:18:54 UTC 2020 new block num and date: 632095
+Thu May 28 22:26:17 UTC 2020 new block num and date: 632096
+Thu May 28 22:38:29 UTC 2020 new block num and date: 632097
+Thu May 28 22:40:02 UTC 2020 new block num and date: 632098
+Thu May 28 22:45:24 UTC 2020 new block num and date: 632099
+Thu May 28 22:46:26 UTC 2020 new block num and date: 632100
+Thu May 28 22:59:19 UTC 2020 new block num and date: 632101
+Thu May 28 23:02:02 UTC 2020 new block num and date: 632102
+Thu May 28 23:21:55 UTC 2020 new block num and date: 632103
+Thu May 28 23:23:47 UTC 2020 new block num and date: 632104
+Thu May 28 23:24:39 UTC 2020 new block num and date: 632105
+Thu May 28 23:31:01 UTC 2020 new block num and date: 632106
+Thu May 28 23:36:04 UTC 2020 new block num and date: 632107
+Thu May 28 23:38:25 UTC 2020 new block num and date: 632108
+Fri May 29 00:09:29 UTC 2020 new block num and date: 632109
+Fri May 29 00:17:22 UTC 2020 new block num and date: 632110
+Fri May 29 00:29:25 UTC 2020 new block num and date: 632111
+Fri May 29 00:47:18 UTC 2020 new block num and date: 632112
+Fri May 29 01:02:11 UTC 2020 new block num and date: 632113
+Fri May 29 01:05:04 UTC 2020 new block num and date: 632114
+Fri May 29 01:35:59 UTC 2020 new block num and date: 632115
+Fri May 29 01:36:41 UTC 2020 new block num and date: 632116
+Fri May 29 01:36:53 UTC 2020 new block num and date: 632117
+Fri May 29 01:41:14 UTC 2020 new block num and date: 632118
+Fri May 29 01:42:12 UTC 2020 new block num and date: 632119
+Fri May 29 01:52:43 UTC 2020 new block num and date: 632120
+Fri May 29 02:03:56 UTC 2020 new block num and date: 632121
+Fri May 29 02:32:48 UTC 2020 new block num and date: 632122
+Fri May 29 02:34:00 UTC 2020 new block num and date: 632123
+Fri May 29 02:46:23 UTC 2020 new block num and date: 632124
+Fri May 29 02:59:28 UTC 2020 new block num and date: 632125
+Fri May 29 03:06:10 UTC 2020 new block num and date: 632126
+Fri May 29 03:07:22 UTC 2020 new block num and date: 632127
+Fri May 29 03:09:47 UTC 2020 new block num and date: 632128
+Fri May 29 03:12:52 UTC 2020 new block num and date: 632129
+Fri May 29 03:14:07 UTC 2020 new block num and date: 632130
+Fri May 29 03:26:10 UTC 2020 new block num and date: 632131
+Fri May 29 03:28:23 UTC 2020 new block num and date: 632132
+Fri May 29 03:33:05 UTC 2020 new block num and date: 632133
+Fri May 29 03:36:37 UTC 2020 new block num and date: 632134
+Fri May 29 03:42:49 UTC 2020 new block num and date: 632135
+Fri May 29 04:08:11 UTC 2020 new block num and date: 632136
+Fri May 29 06:53:59 UTC 2020 new block num and date: 632146
+Fri May 29 06:56:25 UTC 2020 new block num and date: 632146

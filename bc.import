@@ -1,0 +1,1 @@
+mongoimport  --db btcCoreTesting --collection blocksMinedMay --authenticationDatabase admin --username admin --password pwd
